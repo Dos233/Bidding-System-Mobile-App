@@ -1,4 +1,4 @@
-# secret garden
+# Bidding System Mobile App
 
 A new Flutter application.
 
